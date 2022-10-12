@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ```bash
-git clone
+git clone https://github.com/akbari4yaseen/mern-stack-project.git
 ```
 
 ## Getting Started
